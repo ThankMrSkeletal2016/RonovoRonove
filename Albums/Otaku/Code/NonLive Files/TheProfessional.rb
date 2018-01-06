@@ -8,15 +8,16 @@
 #*******
 
 ############Change To Your Sample Directory, or you will cause an error#########
-p0 = "C:/Users/MrSkeletal/Music/Samples/Professional/p0.wav"
-p1 = "C:/Users/MrSkeletal/Music/Samples/Professional/p1.wav"
-p2 = "C:/Users/MrSkeletal/Music/Samples/Professional/p2.wav"
-p3 = "C:/Users/MrSkeletal/Music/Samples/Professional/p3.wav"
-p4 = "C:/Users/MrSkeletal/Music/Samples/Professional/p4.wav"
-#example: "(........................../Samples/Intro/intro.wav"
+repoLocation = "C:/Users/MrSkeletal/Documents/GitHub"
+intro = repoLocation + "/RonovoRonove/Albums/Otaku/Samples/Intro/intro.wav"
+p0 = repoLocation + "/Samples/Professional/p0.wav"
+p1 = repoLocation + "/Samples/Professional/p1.wav"
+p2 = repoLocation + "/Samples/Professional/p2.wav"
+p3 = repoLocation + "/Samples/Professional/p3.wav"
+p4 = repoLocation + "/Samples/Professional/p4.wav"
 
 with_fx :reverb, room: 0.5 do
-  1.times do #This is the drum roll intro
+  1.times do #Drum roll intro
     sample p0, amp: 2.5, rate: 1, hpf: 25
     sleep sample_duration(p0) / 1
   end
