@@ -1,9 +1,9 @@
-#Ronovo Ronove - 愚 O か T 悲 A な K 馬 U 鹿 
+# Ronovo Ronove - 愚 O か T 悲 A な K 馬 U 鹿 
 The First Open Source Vaporwave Album
 Powered By Sonic PI
 http://sonic-pi.net/
 
-#Tracklist:
+# Tracklist:
 1.) Introduction
 2.) Otaku
 3.) Wicked City
@@ -14,7 +14,7 @@ http://sonic-pi.net/
 8.) Too Late To Cry(Ford Loves Anime EP Version)
 9.) Outro
 
-#Files:
+# Files:
 Code
   -Live Files - Templates to Live Code the 愚 O か T 悲 A な K 馬 U 鹿 set
     *Otaku_Start_Up - Initial blank live template
@@ -25,7 +25,7 @@ Code
 	*Includes a folder for each song.
 	*All Samples edited by Ronovo
 	
-#To Remix
+# To Remix
 -Message ThankMrSkeletal2016, and be added as a Collaborator
 -Create Your Own Branch
 -After tracks are created, submit a pull request to the master branch for approval.
