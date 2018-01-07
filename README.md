@@ -21,11 +21,14 @@ Code
   - Live Files - Templates to Live Code the 愚 O か T 悲 A な K 馬 U 鹿 set
     - Otaku_Start_Up - Initial blank live template
     - Otaku_Start_Up(Skip Intro) - Intial Template w/ Comments and Setlist
-  - NonLive Files - Copy and Paste into Sonic Pi to listen to the album!
+  - NonLive Files - Individual Song Files
     - The only change you need to do is to set the directory to your sample folder
-  - Samples
-    - Includes a folder for each song.
-    - All Samples edited by Ronovo
+  - Whole Album.rb
+    - Non-Live playthrough of the album.
+    - Copy and paste into sonic pi, change sample directory, then hit play.
+Samples
+  - Includes a folder for each song.
+  - All Samples edited by Ronovo
 	
 # To Remix
 - Message ThankMrSkeletal2016, and be added as a Collaborator
