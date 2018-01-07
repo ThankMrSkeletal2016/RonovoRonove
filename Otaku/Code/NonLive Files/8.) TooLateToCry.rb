@@ -2,8 +2,8 @@
 #Track :  O T A K U
 #Original Artist : Ronovo Ronove
 #Album : O T A K U
-#Sample Source : Otaku (1994 Documentry)
-#Track Number : 2
+#Sample Source : Sailor Moon/Ford Ad
+#Track Number : 8
 #Remix by: ?
 #*******
 

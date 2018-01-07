@@ -2,7 +2,7 @@
 #Track : Ghost Hunters
 #Original Artist : Ronovo Ronove
 #Album : O T A K U
-#Sample Source : Golgo 13
+#Sample Source : Yu Yu Hakusho
 #Track Number : 7
 #Remix by: ?
 #*******

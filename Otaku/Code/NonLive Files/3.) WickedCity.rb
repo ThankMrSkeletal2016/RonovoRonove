@@ -46,11 +46,11 @@ with_fx :reverb, room: 1 do
     sample w1, amp: 4, rate: 0.90, lpf: 90
     sleep sample_duration(w1) / 0.90
   end
-  1.times do #Transition
+  1.times do 
     sample w1, amp: 3, rate: 0.85, lpf: 85
     sleep sample_duration(w1) / 0.85
   end
-  1.times do #Transition
+  1.times do 
     sample w1, amp: 2, rate: 0.80, hpf: 80
     sleep sample_duration(w1) / 0.80
   end

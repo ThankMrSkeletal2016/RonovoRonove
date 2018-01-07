@@ -2,7 +2,7 @@
 #Track : Intermission
 #Original Artist : Ronovo Ronove
 #Album : O T A K U
-#Sample Source : City Hunter
+#Sample Source : Random Mecha I will Fill In Later
 #Track Number : 5
 #Remix by: ?
 #*******

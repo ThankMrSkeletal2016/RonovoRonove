@@ -19,8 +19,10 @@ with_fx :reverb, room: 0.5 do
     sample o2, amp: 2, rate: 1, hpf: 0
     sleep sample_duration(o2) / 1
   end
-  sample o1, amp: 3, rate: 1, hpf: 0
-  sleep sample_duration(o1) / 1
+  1.times do
+    sample o1, amp: 3, rate: 1, hpf: 0
+    sleep sample_duration(o1) / 1
+  end
 end
 
 
