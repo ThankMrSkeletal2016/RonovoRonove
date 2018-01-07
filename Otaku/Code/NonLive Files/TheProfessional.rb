@@ -8,8 +8,7 @@
 #*******
 
 ############Change To Your Sample Directory, or you will cause an error#########
-repoLocation = "C:/Users/MrSkeletal/Documents/GitHub"
-intro = repoLocation + "/RonovoRonove/Albums/Otaku/Samples/Intro/intro.wav"
+repoLocation = "C:/Users/MrSkeletal/Documents/GitHub/RonovoRonove/Otaku/"
 p0 = repoLocation + "/Samples/Professional/p0.wav"
 p1 = repoLocation + "/Samples/Professional/p1.wav"
 p2 = repoLocation + "/Samples/Professional/p2.wav"
