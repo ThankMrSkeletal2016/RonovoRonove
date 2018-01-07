@@ -1,7 +1,8 @@
 # Ronovo Ronove - 愚 O か T 悲 A な K 馬 U 鹿 
 The First Open Source Vaporwave Album
-Powered By Sonic PI
-http://sonic-pi.net/
+- Powered By Sonic PI
+- [Learn More](https://www.youtube.com/watch?v=ENfyOndcvP0)
+- [Download Sonic Pi](http://sonic-pi.net/#windows) to get involved
 
 [愚 O か T 悲 A な K 馬 U 鹿 Visual Album](https://www.youtube.com/watch?v=ciTQcNkEKh4).
 
