@@ -1,3 +1,12 @@
+#*******
+#Track : Introduction
+#Original Artist : Ronovo Ronove
+#Album : O T A K U
+#Sample Source : City Hunter
+#Track Number : 1
+#Remix by: ?
+#*******
+
 ############Change To Your Sample Directory, or you will cause an error#########
 repoLocation = "C:/Users/MrSkeletal/Documents/GitHub"
 intro = repoLocation + "/RonovoRonove/Otaku/Samples/Intro/intro.wav"
