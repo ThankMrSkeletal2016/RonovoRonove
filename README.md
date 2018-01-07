@@ -3,6 +3,8 @@ The First Open Source Vaporwave Album
 Powered By Sonic PI
 http://sonic-pi.net/
 
+[愚 O か T 悲 A な K 馬 U 鹿 Visual Album](https://www.youtube.com/watch?v=7mQF21J6Uws).
+
 # Tracklist:
 1. Introduction
 2. Otaku
@@ -33,4 +35,6 @@ Code
 [Ronovo's First Performance of the 愚 O か T 悲 A な K 馬 U 鹿 set](https://www.youtube.com/watch?v=7mQF21J6Uws).
 
 [The Professional | First Single from the 愚 O か T 悲 A な K 馬 U 鹿 Album](https://www.youtube.com/watch?v=DL77ABvgmuY)
+
+
 	
