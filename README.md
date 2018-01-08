@@ -27,6 +27,7 @@ Code
   - Whole Album.rb
     - Non-Live playthrough of the album.
     - Copy and paste into sonic pi, change sample directory, then hit play.
+
 Samples
   - Includes a folder for each song.
   - All Samples edited by Ronovo
