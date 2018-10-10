@@ -1,3 +1,7 @@
+THIS IS THE ORIGINAL ALBUM REPO.</br>
+CURRENT VERSION LOCATED IN TURING TEST MEDIA REPO.</br>
+FOLLOW [HERE](https://github.com/ThankMrSkeletal2016/Turing-Test-Media/tree/master/Albums/Otaku).
+
 # Ronovo Ronove - 愚 O か T 悲 A な K 馬 U 鹿 
 The First Open Source Vaporwave Album
 - Powered By Sonic PI
